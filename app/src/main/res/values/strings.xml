@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">A1.9_Sergio_Ezquerro</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="topping">Topping</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="Subtract" translatable="false">-</string>
+    <string name="Add" translatable="false">+</string>
+    <string name="order_summary">Order summary</string>
+    <string name="order">Order</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+</resources>
